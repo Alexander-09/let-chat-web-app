@@ -1,0 +1,35 @@
+html, body
+{
+	height: 100%;
+	margin: 0;
+}
+
+body
+{
+	background-image: url("avengers.jpg");
+}
+
+.header
+{
+	color: white; font-family: 'Yeon Sung'; font-size: 25px; letter-spacing: 10px; margin-top: 80px;
+}
+
+.login_div
+{
+	background: grey; float: none; border-radius: 20px;
+}
+
+.logo
+{
+	width: 80px; margin-top: 30px; border-radius: 15%;
+}
+
+#login_button
+{
+	width: 30%; border-radius: 15px;
+}
+
+.header img
+{
+	width: 50px; margin-left: -15px;
+}
