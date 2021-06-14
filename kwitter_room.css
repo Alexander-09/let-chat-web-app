@@ -3,3 +3,40 @@ html, body
     height: 100%;
 	margin: 0;
 }
+
+body
+{
+	background-image: url("avengers.jpg");
+}
+
+.header
+{
+	color: white; 
+    font-family: 'Yeon Sung'; 
+    font-size: 25px; 
+    letter-spacing: 10px; 
+    margin-top: 80px;
+}
+
+.header img
+{
+	width: 50px; 
+    margin-left: -15px;
+}
+
+#logout
+{
+	font-size: 20px; 
+    float: right;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
