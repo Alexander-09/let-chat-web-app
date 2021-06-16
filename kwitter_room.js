@@ -2,6 +2,7 @@ var firebaseConfig =
     {
     apiKey: "AIzaSyC9lf1CVdo1cxNUA9AYkgrQnQv4Xvlo4g8",
     authDomain: "kwitterwebapp-4882d.firebaseapp.com",
+    databaseURL: "https://kwitterwebapp-4882d-default-rtdb.firebaseio.com",
     projectId: "kwitterwebapp-4882d",
     storageBucket: "kwitterwebapp-4882d.appspot.com",
     messagingSenderId: "778077558992",
