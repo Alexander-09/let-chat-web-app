@@ -40,3 +40,16 @@ body
 {
 	width: 80%;
 }
+
+.color_white
+{
+	color: white;
+}
+
+#output
+{
+	padding: 10px; 
+	width: 80%;
+	background: yellow;
+	border-radius: 15px;
+}
